@@ -63,78 +63,43 @@ Die Produktentwicklung zeichnet sich durch mehrfache Iterationen über das zu en
 
 Gemeinsame Konzepte sind beiden Vorgehen: die bei der Entwicklung verwendeten Werkzeuge (aka Tools), die möglichen Vorgehen und Prozesse.
 
-
 ## Produktentwicklungszyklus
-
-- Ziel ist es von den Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen gelangen, eine Qualitätsgesicherte Umsetzung der Aufgabenpakete durchzuführen und die Ergebnisse zu liefern und auszurollen.
+* Ziel ist es von den Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen gelangen, eine Qualitätsgesicherte Umsetzung der Aufgabenpakete durchzuführen und die Ergebnisse zu liefern und auszurollen.
 
 ![Bild des Produktentwicklungszyklus](https://raw.githubusercontent.com/lars-gentsch-fhb/docs/master/Vorlesungs-Skript/Produktentwicklugszyklus.png)
-
 
 ## Zu bearbeitende Themenfelder
 * Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen verfeinern
 * eine wualitätgesicherte Umsetzung der Aufgabenpakete
 * Release erstellen, Softwarelieferung (Lieferweg) und Installation (Deployment) sowie der Betrieb der Software
 
-Produktidee / Anforderungen
-Methoden
-Scrum
-Kanban
-Wasserfallmodel
-V-Model
+## Produktidee / Anforderungen
+
+**Methoden**
+* Scrum
+* Kanban
+* Wasserfallmodel
+* V-Model
+
+Für die Entwicklung von Software ist es nötig die gegebenen Anforderungen zu verstehen, bearbeiten und zu zerlegen.
+
+**Ziel: Anforderungen in Aufgabenpaket übersetzen**
+
+## Qualitätgesicherte Umsetzung
+* Entwicklung
+* Erstellen / Bauen (Build)
+* Test
+* Versionierung
+
+* Lieferung
+* Paketieren
+* Konfiguration
+* Staging
+* Deployment
 
 
-
-verstehen
-bearbeiten
-zerlegen
-Ziel: Anforderungen in Aufgabenpaket übersetzen
-
-TODO: Aufbrechen in weitere Unterfolien? Oder Begriffe aus der Tag-Cloud auf die Folie bringen
-
-Qualitätgesicherte Umsetzung
-Entwicklung
-Erstellen / Bauen (Build)
-Test
-Versionierung
-
-Lieferung
-Paketieren
-Konfiguration
-Staging
-Deployment
-
-Theorie-Ziel
-Was ist professionelle Softwareentwicklung?
-Welche Vorteile bietet sie (Zeit und Geschwindigkeit)?
-Welche Konzepte sind relevant?
-inhaltliches Verständnis der relevanten Konzepte
-
-Praxis-Ziel
-Projektgerüst welches versioniert abgelegt, automatisiert getestet, automatisiert gebaut und automatisiert lieferbar ist.
-
-Kompletter "Durchstich" mit Tools und Konzepten eines professionell Softwareentwicklungszyklus
-
-
-Übersicht
-professionelle Software-Entwicklung
-CD
-Prozesse
-Methoden
-CI
-VCS
-Build Tools
-Package Layout
-Tests
-Scrum
-Kanban
-XP
-Code Reviews
-TDD
-BDD
-Staging
-Konfigurationsmanagement
-Paketierung
+## Übersicht der Themen der Vorlesung - professionelle Software-Entwicklung
+![Bild des Produktentwicklungszyklus](https://raw.githubusercontent.com/lars-gentsch-fhb/docs/master/Vorlesungs-Skript/Themen%C3%BCbersicht_der_Vorlesung.png)
 
 ## Veranstaltung 1.2 - Build Tools 1
 ## Veranstaltung 1.3 - Build Tools 2
