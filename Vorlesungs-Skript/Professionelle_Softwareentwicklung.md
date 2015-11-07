@@ -64,43 +64,17 @@ Die Produktentwicklung zeichnet sich durch mehrfache Iterationen über das zu en
 Gemeinsame Konzepte sind beiden Vorgehen: die bei der Entwicklung verwendeten Werkzeuge (aka Tools), die möglichen Vorgehen und Prozesse.
 
 
-Software-Entwicklungszyklus
-TODO: ein passendes Bild hier einfügen
-http://www.bluedoc.com/user/images/softwareentwicklung.jpg
+## Produktentwicklungszyklus
+
+- Ziel ist es von den Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen gelangen, eine Qualitätsgesicherte Umsetzung der Aufgabenpakete durchzuführen und die Ergebnisse zu liefern und auszurollen.
+
+![Bild des Produktentwicklungszyklus](https://raw.githubusercontent.com/lars-gentsch-fhb/docs/master/Vorlesungs-Skript/Produktentwicklugszyklus.png)
 
 
-- Von den Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen gelangen
-- Qualitätsgesicherte Umsetzung der Aufgabenpakete
-- Release, Lieferung und Deployment
-
-
-**TODO: Bild einfügen**
-Produktidee
-Produktentwicklungszyklus
-Entwicklungsiteration (Sprint / Projekt)
-Features / Storys
-programmieren
-erstellen
-verifizieren
-verstehen
-bearbeiten
-zerlegen
-releasen (veröffentlichen)
-deploy (installieren)
-TODO: Animation: Einblenden der Elemente nacheinander.
-
-Erfassen
-Entwickeln
-Liefern
-
-Themenblöcke
-Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen
-
-Qualitätgesicherte Umsetzung der Aufgabenpakete
-
-Release, Lieferung und Deployment / Betrieb
-
-Drei Themen-Blöcke der Softwareentwicklung
+## Zu bearbeitende Themenfelder
+* Anforderungen zu beherrschbaren / umsetzbaren Aufgabenpaketen verfeinern
+* eine wualitätgesicherte Umsetzung der Aufgabenpakete
+* Release erstellen, Softwarelieferung (Lieferweg) und Installation (Deployment) sowie der Betrieb der Software
 
 Produktidee / Anforderungen
 Methoden
